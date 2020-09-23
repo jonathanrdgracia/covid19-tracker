@@ -1,0 +1,10 @@
+https://disease.sh/docs/#/COVID-19%3A%20NYT/get_v3_covid_19_nyt_counties__county_
+yarn add numeral
+yarn add leaflet
+
+
+Deploy 
+
+yarn add firebase-tools
+firebase login
+into my folder => firebase init => Hosting=> use an existing proyeject => build => npm run build => firebase deploy
